@@ -1,3 +1,12 @@
-# Lab 6 - Starter
+# Lab 5 - Starter
 
-## Done by Hanbin Tan
+Web Components and localStorage API
+
+### Group Members:
+
+- **Hanbin Tan**: Solo
+
+### Live Demo:
+
+- Click here for -> [Expose](https://hskl18.github.io/Lab6_Starter/index.html)
+
